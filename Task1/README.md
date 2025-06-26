@@ -53,4 +53,5 @@ Predicted prices on the test data and visualized the difference between actual a
 
 # 📊 Output Summary
 Model showed good performance with reasonable accuracy.
+
 Visualizations helped identify linear relationships between features.
