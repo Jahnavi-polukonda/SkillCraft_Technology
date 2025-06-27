@@ -39,6 +39,7 @@ A synthetic dataset of 200 mall customers was created with the following attribu
 | Seaborn        | Statistical Graphs          |
 | scikit-learn   | Machine Learning Algorithms |
 
+---
 
 ## 🔍 Steps Performed
 
@@ -66,6 +67,7 @@ A synthetic dataset of 200 mall customers was created with the following attribu
 - Plotted the customer segments with different colors.
 - Marked cluster centers using black 'X' markers.
 
+---
 
 ## 📊 Output Snapshot
 
@@ -76,3 +78,4 @@ Example interpretations:
 - Cluster 2: Low income, low spenders  
 - Cluster 3: High income, low spenders  
 - Cluster 4: Average income & average spenders  
+
